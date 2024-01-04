@@ -1,0 +1,33 @@
+MITRE CORP IS US govt  is a researh and development center
+non profit independent org
+they create some framework
+to make the way easy 
+3 framework of cyber security
+1. Atta&k
+framework of offensive attack side to follow to step by step approch
+whole step by step way of attack.
+2. Mitre sheild
+relatively new as compare to Att&ck
+framework for active defensive
+reactive attack are done then clean up before more demage 
+active defense to activity engaging attacker to thrawt their attack.
+same as Att&ck but to defensive this time.
+3. Mitre Defence
+merely new
+to defensive before attack and make it defficult to attack.
+it help hardening app web network etc.
+there are techniques and tactics like every other framework describe above.
+
+Reconniassance
+active reconissance: Active: directive interact to target system direct information gathering.
+passive reconissance: interact information gathering.
+Python Authomation to make reconnaissance faster.
+Efficient reconnaissance.
+
+Reconnaissance in performs in alot of ways 
+1. open technical source: databases of into accessible. available, or registered company etc
+2. active reconnaisance: doing it yourself in target using ports. but it make alot of noise.
+
+Shodan: search engine for all ip address connected to internet.
+so target ip, ports etc information.
+DNS: address book of internet. 
